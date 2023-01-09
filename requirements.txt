@@ -9,3 +9,5 @@ TgCrypto==1.2.5
 urllib3==1.26.13
 youtube-dl==2021.12.17
 youtube-search==2.1.2
+ffmpeg==1.4
+ffmpeg-python==0.2.0
