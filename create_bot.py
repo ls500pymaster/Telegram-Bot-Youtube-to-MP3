@@ -1,0 +1,1 @@
+from pyrogram import Clientfrom config import BOT_TOKEN, API_ID, API_HASHimport osif __name__ == "__main__":    plugins = dict(        root="plugins"    )    bot = Client(        "YoutubeToMP3",        bot_token=BOT_TOKEN,        api_hash=API_HASH,        api_id=API_ID,        plugins=plugins    )    bot.run()
