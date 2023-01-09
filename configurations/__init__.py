@@ -1,1 +1,0 @@
-from configurations.config import BOT_TOKEN, API_ID, API_HASH
